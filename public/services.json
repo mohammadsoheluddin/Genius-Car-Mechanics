@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "ENGINE DIAGNOSTIC",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis.",
+        "img": "https://i.ibb.co/DrBRKRJ/Service-01.jpgC"
+    },
+    {
+        "id": 2,
+        "name": "WHEEL ALIGNMENT",
+        "price": "1000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis.",
+        "img": "https://i.ibb.co/GQgDpkR/Service-02.jpg"
+    },
+    {
+        "id": 3,
+        "name": "ENGINE DIAGNOSTIC",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis.",
+        "img": "https://i.ibb.co/P613cF6/Service-03.jpg"
+    },
+    {
+        "id": 4,
+        "name": "OIL CHANGING",
+        "price": "150",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis.",
+        "img": "https://i.ibb.co/8BvWnrY/Service-04.jpg"
+    },
+    {
+        "id": 5,
+        "name": "ENGINE DIAGNOSTIC",
+        "price": "500",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis.",
+        "img": "https://i.ibb.co/bWbMqcK/Service-05.jpg"
+    },
+    {
+        "id": 6,
+        "name": "LIGHT REPAIR",
+        "price": "3000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis.",
+        "img": "https://i.ibb.co/L9g4jP8/Service-06.jpg"
+    }
+]
